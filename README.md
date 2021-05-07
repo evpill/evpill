@@ -1,8 +1,10 @@
 👋 Hi, I’m @evpill
-- 👀 I’m interested in ... lot's of things.
-- 🌱 I’m currently learning ... lot's of things.
-- 💞️ I’m looking to collaborate on ... lot's of things.
-- 📫 How to reach me ... I'm not quite ready for that in this point of our relationship.
+- [x] 👀 I’m interested in ... lot's of things.
+- [x] 🌱 I’m currently learning ... lot's of things.
+- [x] 💞️ I’m looking to collaborate on ... lot's of things.
+- [ ] 📫 How to reach me ... I'm not quite ready for that in this point of our relationship.
+
+<sup> Disclaimer: If it wasn't obvious, I only slightly modified the default README.md... </sup>
 
 <!---
 evpill/evpill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
